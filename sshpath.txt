@@ -1,0 +1,2 @@
+ssh moc_gateway
+ssh ubuntu@192.168.0.10 -i .ssh/key 
